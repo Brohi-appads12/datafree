@@ -61,7 +61,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "225",
-      "teamBId": "222"
+      "teamBId": "222",
+      "isPinned": true
     },
     {
       "id": "6e6f2e46-1319-47a5-910d-5aa491bf70ed",
@@ -125,7 +126,7 @@
       "fairplayUrl": "",
       "teamAId": "279",
       "teamBId": "400",
-      "isPinned": false
+      "isPinned": true
     },
     {
       "id": "191caf9d-8838-47a2-a618-df742cada9e3",
@@ -1300,5 +1301,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-11-17T21:15:35.198Z"
+  "lastUpdated": "2026-11-17T21:15:45.095Z"
 }
