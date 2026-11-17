@@ -29,7 +29,8 @@
       "playreadyUrl": "",
       "fairplayUrl": "",
       "teamAId": "15366",
-      "teamBId": "21423"
+      "teamBId": "21423",
+      "isPinned": true
     },
     {
       "id": "cfe4046d-f3b2-40fd-bd77-7786cba1fc91",
@@ -1299,5 +1300,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-11-17T21:01:38.344Z"
+  "lastUpdated": "2026-11-17T21:15:35.198Z"
 }
