@@ -30,7 +30,7 @@
       "fairplayUrl": "",
       "teamAId": "15366",
       "teamBId": "21423",
-      "isPinned": true
+      "isPinned": false
     },
     {
       "id": "cfe4046d-f3b2-40fd-bd77-7786cba1fc91",
@@ -532,37 +532,6 @@
       "teamBId": "345"
     },
     {
-      "id": "cfb37133-b149-448e-9ad9-88c20d8fbd72",
-      "eventName": "",
-      "eventLogo": "",
-      "teamA": "Detroit Pistons",
-      "teamB": "Boston Celtics",
-      "teamA_logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-      "teamB_logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-      "eventId": "401909088",
-      "sofaId": "401909088",
-      "category": "basketball | NBA",
-      "startTime": "2026-10-21T00:00",
-      "endTime": "",
-      "startTimestamp": 1792522800,
-      "isLive": true,
-      "streamUrl": "",
-      "streamType": "HLS (.m3u8)",
-      "backups": [],
-      "channels": [],
-      "userAgent": "",
-      "referrer": "",
-      "cookie": "",
-      "clearKey": "",
-      "origin": "",
-      "drmType": "None",
-      "widevineUrl": "",
-      "playreadyUrl": "",
-      "fairplayUrl": "",
-      "teamAId": "8",
-      "teamBId": "2"
-    },
-    {
       "id": "f6cb441a-4f8c-40e2-8538-ed7a9f9333dc",
       "eventName": "",
       "eventLogo": "",
@@ -778,37 +747,6 @@
       "fairplayUrl": "",
       "teamAId": "5662",
       "teamBId": "132659"
-    },
-    {
-      "id": "0976f159-415c-4ae0-80ae-7e8d93fe0572",
-      "eventName": "",
-      "eventLogo": "",
-      "teamA": "New York Knicks",
-      "teamB": "Philadelphia 76ers",
-      "teamA_logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-      "teamB_logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-      "eventId": "401909089",
-      "sofaId": "401909089",
-      "category": "basketball | NBA",
-      "startTime": "2026-10-21T04:00",
-      "endTime": "",
-      "startTimestamp": 1792537200,
-      "isLive": false,
-      "streamUrl": "",
-      "streamType": "HLS (.m3u8)",
-      "backups": [],
-      "channels": [],
-      "userAgent": "",
-      "referrer": "",
-      "cookie": "",
-      "clearKey": "",
-      "origin": "",
-      "drmType": "None",
-      "widevineUrl": "",
-      "playreadyUrl": "",
-      "fairplayUrl": "",
-      "teamAId": "18",
-      "teamBId": "20"
     },
     {
       "id": "7409a89c-109d-45a9-bc47-7db0c8896a7a",
@@ -1301,5 +1239,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-11-17T21:15:45.095Z"
+  "lastUpdated": "2026-11-18T08:35:44.706Z"
 }
