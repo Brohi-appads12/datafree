@@ -97,38 +97,6 @@
       "isPinned": false
     },
     {
-      "id": "6d8c7278-95d6-429e-9330-31c85dd090ff",
-      "eventName": "",
-      "eventLogo": "",
-      "teamA": "Doncaster Rovers",
-      "teamB": "Stockport County",
-      "teamA_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/279.png",
-      "teamB_logo": "https://a.espncdn.com/i/teamlogos/soccer/500/400.png",
-      "eventId": "401880785",
-      "sofaId": "401880785",
-      "category": "soccer | Regular Season",
-      "startTime": "2026-10-20T23:45",
-      "endTime": "",
-      "startTimestamp": 1792521900,
-      "isLive": true,
-      "streamUrl": "",
-      "streamType": "HLS (.m3u8)",
-      "backups": [],
-      "channels": [],
-      "userAgent": "",
-      "referrer": "",
-      "cookie": "",
-      "clearKey": "",
-      "origin": "",
-      "drmType": "None",
-      "widevineUrl": "",
-      "playreadyUrl": "",
-      "fairplayUrl": "",
-      "teamAId": "279",
-      "teamBId": "400",
-      "isPinned": true
-    },
-    {
       "id": "191caf9d-8838-47a2-a618-df742cada9e3",
       "eventName": "",
       "eventLogo": "",
@@ -1239,5 +1207,5 @@
     "aesEncryption": false,
     "firebaseServerKey": ""
   },
-  "lastUpdated": "2026-11-18T08:35:44.706Z"
+  "lastUpdated": "2026-11-18T08:36:01.602Z"
 }
